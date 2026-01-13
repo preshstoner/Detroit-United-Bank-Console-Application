@@ -1,0 +1,8 @@
+C:\Users\USER\OneDrive\Desktop\C#\DetroitUnitedBank\bin\Debug\DetroitUnitedBank.exe.config
+C:\Users\USER\OneDrive\Desktop\C#\DetroitUnitedBank\bin\Debug\DetroitUnitedBank.exe
+C:\Users\USER\OneDrive\Desktop\C#\DetroitUnitedBank\bin\Debug\DetroitUnitedBank.pdb
+C:\Users\USER\OneDrive\Desktop\C#\DetroitUnitedBank\obj\Debug\DetroitUnitedBank.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\C#\DetroitUnitedBank\obj\Debug\DetroitUnitedBank.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\C#\DetroitUnitedBank\obj\Debug\DetroitUnitedBank.exe
+C:\Users\USER\OneDrive\Desktop\C#\DetroitUnitedBank\obj\Debug\DetroitUnitedBank.pdb
+C:\Users\USER\OneDrive\Desktop\C#\DetroitUnitedBank\obj\Debug\DetroitUnitedBank.exe.config
