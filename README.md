@@ -72,5 +72,3 @@ Deposited $200. New balance: $700
 This project is for educational purposes. You may use and modify it freely.
 
 ---
-
-👉 You can copy this into a file called `README.md` in your project root. GitHub will automatically display it on your repository’s front page.  
